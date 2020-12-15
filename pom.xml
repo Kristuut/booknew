@@ -33,7 +33,7 @@
                 <executions>
 
                     <execution>
-                        <id>prepare-agent-HomeWork11</id>
+                        <id>prepare-agent-HomeWork</id>
                         <phase>initialize</phase>
                         <goals>
                             <goal>prepare-agent</goal>
@@ -41,7 +41,7 @@
                     </execution>
 
                     <execution>
-                        <id>report-HomeWork11</id>
+                        <id>report-HomeWork</id>
                         <phase>verify</phase>
                         <goals>
                             <goal>report</goal>
@@ -49,7 +49,7 @@
                     </execution>
 
                     <execution>
-                        <id>check-HomeWork11</id>
+                        <id>check-HomeWork</id>
                         <phase>verify</phase>
                         <goals>
                             <goal>check</goal>
